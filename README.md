@@ -1,0 +1,48 @@
+# 🙋JAVA 복습
+
+- main
+- println
+- 변수
+- 상수(final)
+- 데이터 타입 +리터럴
+- 형변환 (강제, 자동)
+- 문자열
+- 문자열 포맷
+- Math
+- 문자열 숫자 상호 변환
+- Random
+- 키보드 입력
+- if 문
+- 삼항 연산자
+- 논리연산
+- 부정연산
+- switch
+- for문
+- while문
+- do while 문
+- break
+- continue
+- 배열
+- 예외
+- null
+- NullPointerException
+- ArrayList
+- 메소드
+- 오버로드
+- static
+- 클래스
+- getter/ setter
+- 생성자
+- 모델 클래스
+- toString
+- 패키지
+- import 
+- public, private
+- 상속
+- 추상클래스
+- 오버라이드
+- 인터페이스
+- 인스턴스오브
+- 제너릭
+- 스레드
+- 람다식
